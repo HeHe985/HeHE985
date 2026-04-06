@@ -1,3 +1,5 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/0a1e95cd-5011-435b-8cff-31b4394b4a9e" />
+
 <div align=center><h1>STACKS</h1></div>
 <div  align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
