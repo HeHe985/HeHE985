@@ -1,4 +1,4 @@
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/0a1e95cd-5011-435b-8cff-31b4394b4a9e" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/27d31115-084e-47e9-b3bc-9f858ca73760" />
 
 <div align=center><h1>STACKS</h1></div>
 <div  align=center>
